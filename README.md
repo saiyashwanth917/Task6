@@ -1,1 +1,2 @@
 # Task6
+This project implements K-Nearest Neighbors (KNN) classification on the Iris dataset using scikit-learn. The dataset is preprocessed by normalizing the features, and different K values are tested to find the optimal K. The model is evaluated using accuracy and confusion matrix. A visualization of the decision boundaries is also provided using the first two features. This helps in understanding how KNN separates different classes using Euclidean distance. All results are visualized with matplotlib for better interpretation.
